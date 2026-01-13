@@ -13,7 +13,7 @@ export default function PhotoGallery() {
   const photos: Photo[] = [
     {
       id: 1,
-      url: "https://images.unsplash.com/photo-1670758108290-d3ef354bbffb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjByb21hbnRpY3xlbnwxfHx8fDE3NjQ3NjQzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      url: "IMG_0393.HEIC",
       caption: "Momen Spesial Kita 💕"
     },
     {

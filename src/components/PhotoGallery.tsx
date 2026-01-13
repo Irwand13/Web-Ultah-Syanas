@@ -14,32 +14,32 @@ export default function PhotoGallery() {
     {
       id: 1,
       url: "/photos/image.png",
-      caption: "Momen di Alas Venuz 💕"
+      caption: "Pas Masih Jadi Cowo Cool 😎"
     },
     {
       id: 2,
-      url: "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoYXBweSUyMGNvdXBsZXxlbnwxfHx8fDE3NjQ3NTY0ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      caption: "Bahagia Bersama ❤️"
+      url: "/photos/fotoceria.png",
+      caption: "Pas Lagi Ceriaa bangett ❤️"
     },
     {
       id: 3,
-      url: "https://images.unsplash.com/photo-1513279922550-250c2129b13a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMGRhdGV8ZW58MXx8fHwxNzY0ODU1ODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      caption: "Kencan Romantis Kita 🌹"
+      url: "/photos/image1.png",
+      caption: "Pas lagi manis manisnyaa 😍" "
     },
     {
       id: 4,
-      url: "https://images.unsplash.com/photo-1656017054238-f08a0e1482fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBsYXVnaGluZ3xlbnwxfHx8fDE3NjQ4NTU4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      caption: "Tawa & Canda 😄"
+      url: "/photos/fotokecil.png",
+      caption: "Pas Masih Kecil cantik and maniezz abizz 😍"
     },
     {
       id: 5,
-      url: "https://images.unsplash.com/photo-1575388104683-e076ee9ccaa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBzdW5zZXR8ZW58MXx8fHwxNzY0NzkzMzAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      caption: "Sunset Berdua 🌅"
+      url: "/photos/fotobersama.png",
+      caption: "Pas Lagi bersama sang ceo kaisar Kangmas Raden Irwan 😍"
     },
     {
       id: 6,
-      url: "https://images.unsplash.com/photo-1535615615570-3b839f4359be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsb3ZlJTIwaGVhcnRzfGVufDF8fHx8MTc2NDg1NTg3NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      caption: "Love Forever 💖"
+      url: "/photos/fotomangap.png",
+      caption: "Ini Bonus yaa pas lagi membuka jurus rahasia biar makin sayang😘"
     }
   ];
 

@@ -24,7 +24,7 @@ export default function PhotoGallery() {
     {
       id: 3,
       url: "/photos/image1.png",
-      caption: "Pas lagi manis manisnyaa 😍" "
+      caption: "Pas lagi manis manisnyaa 😍"
     },
     {
       id: 4,

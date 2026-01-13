@@ -23,8 +23,8 @@ export default function PhotoGallery() {
     },
     {
       id: 3,
-      url: "/photos/image1.png",
-      caption: "Pas lagi manis manisnyaa 😍"
+      url: "/photos/maumakan.png",
+      caption: "Pas lagi mau makan bersama pemilik hati aww awww 😍"
     },
     {
       id: 4,
@@ -86,7 +86,7 @@ export default function PhotoGallery() {
         initial={{ y: -50, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
       >
-        <h2 className="text-pink-600 mb-2">Galeri Kenangan Kita 📸</h2>
+        <h2 className="text-pink-600 mb-2">Galeri Kita 📸</h2>
         <p className="text-gray-600">Swipe atau klik untuk melihat foto lainnya</p>
       </motion.div>
 

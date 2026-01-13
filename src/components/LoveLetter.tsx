@@ -4,7 +4,7 @@ import { Heart, Calendar, Clock } from 'lucide-react';
 
 export default function LoveLetter() {
   // Ganti tanggal ini dengan tanggal mulai hubungan kalian (format: YYYY-MM-DD)
-  const relationshipStartDate = new Date('2023-01-01');
+  const relationshipStartDate = new Date('2005-01-14');
   const [daysTogether, setDaysTogether] = useState(0);
   const [hours, setHours] = useState(0);
   const [minutes, setMinutes] = useState(0);
@@ -55,8 +55,8 @@ export default function LoveLetter() {
             >
               <Heart className="w-12 h-12 mx-auto mb-3 fill-white" />
             </motion.div>
-            <h2 className="mb-2">Perjalanan Cinta Kita</h2>
-            <p className="opacity-90">Sudah bersama selama...</p>
+            <h2 className="mb-2">Perjalanan Hidup Syanas</h2>
+            <p className="opacity-90">sudah selama ini...</p>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -135,7 +135,7 @@ export default function LoveLetter() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            Dan akan terus bertambah setiap detiknya... 💕
+            Semoga tiap detik ini cinta kita juga bertumbuh yaa... 💕
           </motion.p>
         </motion.div>
 
@@ -157,7 +157,7 @@ export default function LoveLetter() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ delay: 0.5 }}
             >
-              Untuk orang yang paling spesial di hidupku,
+              Untuk orang yang paling spesial di hidupku, selamat bertambah usia semoga di umur yang baru ini kamu selalu diberikan kesehatan, kebahagiaan, dan kesuksesan dalam setiap langkahmu dan bertambah juga rasa sayangmu padaku hehehhe.
             </motion.p>
 
             <motion.p

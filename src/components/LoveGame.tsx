@@ -12,11 +12,11 @@ interface LoveItem {
 
 export default function LoveGame() {
   const [items, setItems] = useState<LoveItem[]>([
-    { id: 1, message: "Kamu Cantik Banget! 😍", revealed: false, x: 20, y: 20 },
-    { id: 2, message: "Senyummu Bikin Hari Cerah ☀️", revealed: false, x: 60, y: 15 },
-    { id: 3, message: "Kamu Istimewa 💎", revealed: false, x: 40, y: 40 },
-    { id: 4, message: "I Love You 3000 💕", revealed: false, x: 15, y: 60 },
-    { id: 5, message: "Kamu Luar Biasa! ⭐", revealed: false, x: 70, y: 55 },
+    { id: 1, message: "Mochikuu Cantik Banget! 😍", revealed: false, x: 20, y: 20 },
+    { id: 2, message: "Senyummu Bikin Canduu ☀️", revealed: false, x: 60, y: 15 },
+    { id: 3, message: "Kamu semingitt hidipkii 💎", revealed: false, x: 40, y: 40 },
+    { id: 4, message: "I Love You 140922 💕", revealed: false, x: 15, y: 60 },
+    { id: 5, message: "Mochiku Hebatt! ⭐", revealed: false, x: 70, y: 55 },
     { id: 6, message: "Best Thing Ever! 🌟", revealed: false, x: 45, y: 70 },
     { id: 7, message: "My Everything 💖", revealed: false, x: 30, y: 85 },
     { id: 8, message: "Forever & Always 💍", revealed: false, x: 65, y: 80 },

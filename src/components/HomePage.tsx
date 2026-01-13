@@ -89,7 +89,7 @@ export default function HomePage({ onOpenMessage }: HomePageProps) {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5 }}
         >
-          Sayangku! 💕
+          Anas Tasya Pratama Putri 💕
         </motion.h2>
         
         <motion.p
@@ -98,8 +98,8 @@ export default function HomePage({ onOpenMessage }: HomePageProps) {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.7 }}
         >
-          Di hari spesialmu ini, aku ingin kamu tahu betapa berartinya kamu dalam hidupku. 
-          Terima kasih sudah menjadi bagian terpenting dalam hidupku.
+          Di hari yang spesialmu ini, aku ingin kamu tahu betapa berartinya kamu dalam hidupku. 
+          Terima kasih sudah menjadi bagian terpenting dalam hidupku, Ibaratnya itu kamu itu mochi nahh aku kulkasnya hehe.
         </motion.p>
 
         {showButton && (
@@ -112,7 +112,7 @@ export default function HomePage({ onOpenMessage }: HomePageProps) {
             whileTap={{ scale: 0.95 }}
             transition={{ type: 'spring', stiffness: 300 }}
           >
-            Tap Here! ✨
+            Klik Sini! ✨
           </motion.button>
         )}
       </motion.div>

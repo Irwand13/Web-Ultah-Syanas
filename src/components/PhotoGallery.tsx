@@ -13,7 +13,7 @@ export default function PhotoGallery() {
   const photos: Photo[] = [
     {
       id: 1,
-      url: "IMG_0393.HEIC",
+      url: "/photos/image.png",
       caption: "Momen di Alas Venuz 💕"
     },
     {

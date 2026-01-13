@@ -14,7 +14,7 @@ export default function PhotoGallery() {
     {
       id: 1,
       url: "IMG_0393.HEIC",
-      caption: "Momen Spesial Kita 💕"
+      caption: "Momen di Alas Venuz 💕"
     },
     {
       id: 2,
